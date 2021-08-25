@@ -1,2 +1,2 @@
-# HCL_Training_Assignment
-HCL_Training_Assignment
+#Training_Assignment
+Training_Assignment
